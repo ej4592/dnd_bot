@@ -1,0 +1,30 @@
+{
+  "name": "dnd_bot",
+  "version": "1.0.0",
+  "description": "A bot in discord that will automatically roll die for the users",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "devStart": "nodemon index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ej4592/dnd_bot.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ej4592/dnd_bot/issues"
+  },
+  "homepage": "https://github.com/ej4592/dnd_bot#readme",
+  "dependencies": {
+    "discord.js": "^14.11.0",
+    "dotenv": "^16.0.3",
+    "express": "^4.18.2",
+    "nodemon": "^2.0.22"
+  },
+  "devDependencies": {
+    "eslint": "^8.41.0"
+  }
+}
