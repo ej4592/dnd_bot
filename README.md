@@ -8,7 +8,7 @@ DnDBot is a Discord bot that allows you to roll dice for your Dungeons and Drago
 
 ## Commands
 
-DiceBot supports the following commands:
+DnDBot supports the following commands:
 
 - `!roll [numDice]d[numFaces]`: Rolls the specified number of dice. For example, `!roll 2d6` rolls two six-sided dice.
 
@@ -17,7 +17,7 @@ DiceBot supports the following commands:
 
 To use DnDBot in your Discord server, follow these steps:
 
-1. Invite the DiceBot to your server using the following invite link: [DiceBot Invite Link](https://discord.com/oauth2/authorize?client_id=YOUR_CLIENT_ID&scope=bot)
+1. Invite the DnDBot to your server using the following invite link: [DnDBot Invite Link](https://discord.com/oauth2/authorize?client_id=YOUR_CLIENT_ID&scope=bot)
    - Create a .config.json with parameter token. Put your bots token here
    - Make sure you have the necessary permissions to invite a bot to your server.
 
@@ -25,9 +25,9 @@ To use DnDBot in your Discord server, follow these steps:
 
 ## Setup and Configuration
 
-To host and run your own instance of DiceBot, you can follow these steps:
+To host and run your own instance of DnDBot, you can follow these steps:
 
-1. Clone the DiceBot repository: `git clone https://github.com/your-username/dicebot.git`
+1. Clone the DnDBot repository: `git clone https://github.com/your-username/DnDBot.git`
 
 2. Install the dependencies using a package manager like npm or yarn: `npm install` or `yarn install`
 
